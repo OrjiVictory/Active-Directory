@@ -46,3 +46,4 @@ This lab sets up a Windows Server 2022 Domain Controller with Active Directory D
 5. Create OUs, users, and groups in ADUC
 6. Configure GPOs in Group Policy Management
 7. Create a Windows 10 VM, point DNS to the IP address of DClab, and join the domain
+8. Verify with `gpresult /r` on the client
